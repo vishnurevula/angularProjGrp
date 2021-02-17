@@ -2,7 +2,7 @@
 
 1 Download this repository.
 
-2 Open any projeect folder
+2 Open any project folder
 
 3 Run  " npm install "
       This creates node_modules folder and adds required dependecies
